@@ -1,0 +1,25 @@
+
+The sentence : I am a web developer.
+
+The Length of the sentence(the number of characters)
+Step 1: Start.
+Step 2: Create a container for the sentence (I am a web developer).
+Step 3: Create a contaner for character and Create a container for sum.
+Step 4: Count the number of characters in the sentence and put in the sum container.
+Step 5: Print the result.
+
+The number of words in the sentence(assuming that the words are separated by a single space).
+Step 1: Start.
+Step 2: Create a container called Word Count and create a container called sentence.
+Step 3: After every space increase word count by 1.
+Step 4: Print the result.
+
+
+The number of vowels in the sentence.
+Step 1: Start.
+Step 2: Create a container for the sentence. 
+Step 3: Create another contianer called sum.
+Step 4: Count the number of vowels in the sentence( e.g= a,e,i,o,u).
+Step 5: Put it in the sum container.
+Step 6: Print the result.
+
